@@ -43,7 +43,7 @@
 .login-form button {
     width: 30%;
     padding: 10px;
-    background-color: #0077ff;
+    background-color: #08458a;
     color: white;
     border: none;
     border-radius: 100px;
@@ -60,9 +60,15 @@
 }
 
 .title2{
-    text-align: center;
+   font-size: 48px;
     color: #0077ff;
-    font-size: 48px;
+    margin-bottom: 10px;
+
+    transition: all;
+}
+
+.titl:hover {
+    transform: scale(1.3);
 }
 
 .acc{
@@ -84,7 +90,7 @@
 
 .subtitle2{
     text-align: center;
-    color: #555;
+    color: #141313;
 }
 
 .NewAcc-container{
@@ -97,7 +103,7 @@
 .acc button{
     width: 50%;
     padding: 10px;
-    background-color: #0077ff;
+    background-color: #295c96;
     color: white;
     border: none;
     border-radius: 100px;
@@ -109,3 +115,4 @@
     color: #010407;
     font-size: 48px;
 }
+
