@@ -103,3 +103,9 @@
     border-radius: 100px;
     cursor: pointer;
 }
+
+.Dashboard{
+    text-align: center;
+    color: #010407;
+    font-size: 48px;
+}
